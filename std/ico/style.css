@@ -1,0 +1,37 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: black;
+    margin-top: 10%;
+    padding: 0px;
+}
+a
+{
+    display: inline-block;
+    padding: relative;
+    color: #2196f3;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    transition: .3s;
+    text-align: center;
+    margin: 50px;
+    justify-content: center;
+}
+.iconic{
+	padding: 70px;
+	justify-content: center;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+h2{
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	justify-content: center;
+}
+img{
+	justify-content: center;
+}
